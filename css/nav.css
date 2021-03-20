@@ -1,0 +1,39 @@
+#logo{
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: rgb(10, 4, 68);
+    margin-right: auto;
+    font-weight: 500;
+    text-shadow: rgb(48, 77, 131)  1px 1px 0px;
+}
+
+#logo:hover{
+    color: rgb(241, 230, 128);
+    transition: color 0.2s ease;
+}
+
+header{
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 30px 50px;
+    margin-right: 0%;
+}
+
+
+.link{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    padding-right: 30px;
+    text-decoration: none;
+    color: white;
+    text-shadow: rgb(48, 77, 131)  1px 1px 0px;
+}
+
+.link:hover{
+    color: rgb(177, 247, 250);
+    transition: color 0.2s ease;
+}
+

@@ -1,0 +1,23 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+p{
+    margin-right: 40%;
+    padding-left: 50px;
+}
+
+h1{
+    padding-left: 50px;
+}
+
+h2{
+    padding-left: 50px;
+}
+
+.image{
+    float: right;
+    vertical-align: auto;
+    padding-right: 10%;
+}
